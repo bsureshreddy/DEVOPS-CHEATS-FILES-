@@ -1,0 +1,7 @@
+total 10
+drwxr-xr-x 1 Dell 197121   0 Jan 21 15:45 ./
+drwxr-xr-x 1 Dell 197121   0 Jan 20 14:27 ../
+drwxr-xr-x 1 Dell 197121   0 Jan 21 15:47 .git/
+-rw-r--r-- 1 Dell 197121  35 Jan 21 15:45 abc.txt
+drwxr-xr-x 1 Dell 197121   0 Jan 21 15:45 git1/
+-rw-r--r-- 1 Dell 197121 218 Jan 21 15:45 house.txt
