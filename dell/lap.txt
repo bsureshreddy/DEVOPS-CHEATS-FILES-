@@ -1,0 +1,7 @@
+echo "# suresh" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bsureshreddy/suresh.git
+git push -u origin main
